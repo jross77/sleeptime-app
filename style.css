@@ -1,0 +1,155 @@
+body {
+  text-align: center;
+  background-color: #001f3f;
+  color: #7fdbff;
+  font-size: 150%;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.output {
+  border: 1px solid white;
+  margin: 20px;
+  display: none;
+}
+.output2{
+  border: 1px solid white;
+  margin: 20px;
+  display: none;
+}
+#cycle-1 {
+  color: rgb(168, 39, 254);
+}
+
+#cycle-2 {
+  color: rgb(154, 3, 254);
+}
+
+#cycle-3 {
+  color: rgb(150, 105, 254);
+}
+
+#cycle-4 {
+  color: rgb(140, 140, 255);
+}
+
+#cycle-5 {
+  color: rgb(187, 187, 255);
+}
+
+#cycle-6 {
+  color: rgb(143, 254, 221);
+}
+
+#hour {
+  color:#7FDBFF;
+  background-color: #001f3f;
+}
+#minute {
+  color:#7FDBFF;
+  background-color: #001f3f;
+}
+#ampm {
+  color:#7FDBFF;
+  background-color: #001f3f;
+}
+
+#calc{
+  margin-top: 40px;
+  display: inline-block;
+  height: 38px !important;
+  padding: 0 30px !important;
+  color: #222B5F !important;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 38px;
+  letter-spacing: .1rem !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: #fff !important;
+  border-radius: 50px !important;
+  border: 1px solid #bbb !important;
+  cursor: pointer !important;
+  box-sizing: border-box;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+#zzz{
+  margin-top: 0px;
+  display: inline-block;
+  height: 38px !important;
+  padding: 0 30px !important;
+  color: #222B5F !important;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 38px;
+  letter-spacing: .1rem !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: #fff !important;
+  border-radius: 50px !important;
+  border: 1px solid #bbb !important;
+  cursor: pointer !important;
+  box-sizing: border-box;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+#calc2{
+  margin-top: 40px;
+  display: inline-block;
+  height: 38px !important;
+  padding: 0 30px !important;
+  color: #222B5F !important;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 38px;
+  letter-spacing: .1rem !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: #fff !important;
+  border-radius: 50px !important;
+  border: 1px solid #bbb !important;
+  cursor: pointer !important;
+  box-sizing: border-box;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+.back {
+  cursor: pointer;
+  text-decoration: underline; 
+  line-height: 1.6;
+    font-weight: 400;
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    background-position: center;
+  }
+
+.results{
+  display: none;
+  font-size: 11px;
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+   color: #7FDBFF !important;
+   background-image: url(../bg-night.png);
+   background-position: center;
+  background-repeat: no-repeat;    background-size: cover;
+  background-color: #001f3f;
+}
+.sleepTime{
+  font-size: 150%; 
+  color: #39CCCC;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+#plans{
+  font-size: 150%; 
+  color: #7FDBFF ;
+  line-height: 1.6;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-weight: 400;
+}
+
+
